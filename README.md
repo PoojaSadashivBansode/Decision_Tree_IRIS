@@ -15,7 +15,7 @@
 ## The goal of this project is to implement a decision tree classifier to classify iris flowers into three species — Setosa, Versicolor, and Virginica—based on their physical attributes: sepal length, sepal width, petal length, and petal width. The project involves training the model, evaluating its performance, visualizing the decision tree, and interpreting the classification rules.
 
 ## Steps: 
-# Convert the data into a Pandas DataFrame for better visualization and manipulation.
+1. Convert the data into a Pandas DataFrame for better visualization and manipulation.
 # Split the data into features (x) and target (y).
 # Divide the dataset into training and testing sets (70%-30%) using train_test_split.
 # Train a Decision Tree Classifier using the Gini impurity criterion with a maximum tree depth of 3 for better interpretability.
